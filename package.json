@@ -1,7 +1,7 @@
 {
   "name": "giphyapi",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/IVAsearch",
+  "homepage": "https://chan9367.github.io/IVAsearch",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
